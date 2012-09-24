@@ -1,0 +1,3 @@
+#!/bin/sh
+
+su mizzy -c 'export PATH="/home/mizzy/.rbenv/bin:$PATH"; eval "$(rbenv init -)"; /home/mizzy/gollum/bin/gollum --port <%= port %> /home/mizzy/github-wiki-backup/repos/<%= repo.sub('/', '-') %>'

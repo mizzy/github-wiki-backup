@@ -1,0 +1,9 @@
+<h1>GitHub Wiki Backup</h1>
+
+<ul>
+  <% port = 5000 %>
+  <% repos.each do |repo| %>
+  <li><a href="http://gollum.tokyo.pb:<%= port %>"><%= repo %></a></li>
+  <% port += 1 %>
+  <% end %>
+</ul>

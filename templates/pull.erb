@@ -1,0 +1,6 @@
+#!/bin/sh
+
+<% repos.each do |repo| %>
+cd <%= File.join(repos_path, repo.sub('/', '-')) %>
+git pull
+<% end %>

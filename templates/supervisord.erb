@@ -1,0 +1,4 @@
+[program:gollum-<%= repo.sub('/', '-') %>]
+command=/home/mizzy/github-wiki-backup/scripts/<%= repo.sub('/', '-') %>.sh
+stdout_logfile=/home/mizzy/gollum.log
+stderr_logfile=/home/mizzy/gollum.log
