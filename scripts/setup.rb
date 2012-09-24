@@ -13,6 +13,8 @@ repos = %w!
   paperboy-all/all.wiki
   paperboy-sqale/sqale-app.wiki
   paperboy-puboo/puboo-app.wiki
+  paperboy-30days/30days-front.wiki
+  paperboy-30days/30days-puppet.wiki
 !
 
 unless Dir.exists?(repos_path)
