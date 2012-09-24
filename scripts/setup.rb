@@ -12,6 +12,7 @@ html_path    = File.join(base_path, 'html')
 repos = %w!
   paperboy-all/all.wiki
   paperboy-sqale/sqale-app.wiki
+  paperboy-puboo/puboo-app.wiki
 !
 
 unless Dir.exists?(repos_path)
