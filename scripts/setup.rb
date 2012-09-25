@@ -19,10 +19,6 @@ repos = %w!
   paperboy-puboo/puboo-app.wiki
   paperboy-heteml/heteml-ops.wiki
   paperboy-heteml/heteml-dev.wiki
-  paperboy-sqale/sqale-chef.wiki
-  paperboy-sqale/sqale-nagios.wiki
-  paperboy-sqale/sqale-proxy.wiki
-  paperboy-sqale/sqale-puppet.wiki
   paperboy-30days/30days-front.wiki
   paperboy-30days/30days-puppet.wiki
   paperboy-jugemcart/jugemcart-admin.wiki
