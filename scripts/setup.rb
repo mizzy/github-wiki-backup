@@ -12,6 +12,10 @@ html_path    = File.join(base_path, 'html')
 repos = %w!
   paperboy-all/all.wiki
   paperboy-sqale/sqale-app.wiki
+  paperboy-sqale/sqale-chef.wiki
+  paperboy-sqale/sqale-nagios.wiki
+  paperboy-sqale/sqale-proxy.wiki
+  paperboy-sqale/sqale-puppet.wiki
   paperboy-puboo/puboo-app.wiki
   paperboy-heteml/heteml-ops.wiki
   paperboy-heteml/heteml-dev.wiki
