@@ -21,6 +21,8 @@ repos = %w!
   paperboy-sqale/sqale-puppet.wiki
   paperboy-30days/30days-front.wiki
   paperboy-30days/30days-puppet.wiki
+  paperboy-jugemcart/jugemcart-admin.wiki
+  paperboy-jugemcart/jugemcart-puppet.wiki
 !
 
 unless Dir.exists?(repos_path)
