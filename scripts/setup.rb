@@ -16,7 +16,8 @@ repos = %w!
   paperboy-sqale/sqale-nagios.wiki
   paperboy-sqale/sqale-proxy.wiki
   paperboy-sqale/sqale-puppet.wiki
-  paperboy-puboo/puboo-app.wiki
+  paperboy-booklog/booklog-app.wiki
+  paperboy-booklog/puboo-app.wiki
   paperboy-heteml/heteml-ops.wiki
   paperboy-heteml/heteml-dev.wiki
   paperboy-30days/30days-front.wiki
